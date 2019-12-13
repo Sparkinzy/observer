@@ -1,0 +1,17 @@
+{
+    "name": "mu\/observer",
+    "description": "观察者模式",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Moon",
+            "email": "sparkinzy@163.com"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mu\\Observer\\": "src"
+        }
+    }
+}
